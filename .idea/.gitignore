@@ -6,3 +6,22 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Gradle-specific files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle wrapper files
+gradle/wrapper/gradle-wrapper.properties
+
+# Dependency caches
+**/build/
+**/out/
