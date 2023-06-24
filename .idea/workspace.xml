@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f820de8-c979-47b4-90c3-0d901cdd9964" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "00ac323ddd64fe33e3d71c359a954d0a",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687306990078</updated>
       <workItem from="1687306991214" duration="1685000" />
+      <workItem from="1687532293366" duration="602000" />
     </task>
     <servers />
   </component>
